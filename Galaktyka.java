@@ -90,7 +90,7 @@ public class Galaktyka {
 						PossitionY -= 1;
 						Counter--;
 					}
-					//System.out.println(java.util.Arrays.deepToString(Galaxy).replace("], ", "\n").replace("[[", "").replace("]]", "").replace("[", "").replace(", ", ""));
+					System.out.println(java.util.Arrays.deepToString(Galaxy).replace("], ", "\n").replace("[[", "").replace("]]", "").replace("[", "").replace(", ", ""));
 					System.out.println(SpaceCounter);
 				break;
 				
